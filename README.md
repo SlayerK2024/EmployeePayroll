@@ -29,3 +29,6 @@ THEN I am prompted to add a new employee
 WHEN I choose to cancel
 
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
+![100-javascript-homework-demo](https://github.com/SlayerK2024/EmployeePayroll/assets/157855730/c701e31c-0e23-459b-926a-ca27e7f8d20b)
+<img width="960" alt="200-javascript-homework-console-demo" src="https://github.com/SlayerK2024/EmployeePayroll/assets/157855730/3ed69b1d-a2fd-4a31-95b4-e296cfd1e37c">
+
